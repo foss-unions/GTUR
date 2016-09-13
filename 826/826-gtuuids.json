@@ -1,0 +1,327 @@
+{
+	"unions": [{
+		"name": "Great Britain Non-Confederated Parent",
+		"type": "CU",
+		"industrycode": "X0-99",
+		"parent": "GP:001:X0-99:0000000000",
+		"GTUUID": "{GP:001:X0-99:0000000000}::CU:826:X0-99:0000000000"
+	}, {
+		"name": "Trades Union Congress",
+		"type": "CU",
+		"industrycode": "X0-99",
+		"parent": "GP:001:X0-99:0000000000",
+		"GTUUID": "{GP:001:X0-99:0000000000}::CU:826:X0-99:0000000001"
+	}, {
+		"name": "Scottish Trades Union Congress",
+		"type": "CU",
+		"industrycode": "X0-99",
+		"parent": "GP:001:X0-99:0000000000",
+		"GTUUID": "{GP:001:X0-99:0000000000}::CU:826:X0-99:0000000002"
+	}, {
+		"name": "Bakers, Food and Allied Workers Union",
+		"type": "TU",
+		"industrycode": "C10.I56",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:C10.I56:0000000001"
+	}, {
+		"name": "Educational Institute of Scotland",
+		"type": "TU",
+		"industrycode": "P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:P85:0000000002"
+	}, {
+		"name": "Nautilus International",
+		"type": "TU",
+		"industrycode": "C30.H50",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:C30.H50:0000000003"
+	}, {
+		"name": "National Union of Teachers",
+		"type": "TU",
+		"industrycode": "P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:P85:0000000004"
+	}, {
+		"name": "Associated Society of Locomotive Engineers and Firemen",
+		"type": "TU",
+		"industrycode": "H49",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:H49:0000000005"
+	}, {
+		"name": "United Road Transport Union",
+		"type": "TU",
+		"industrycode": "H49",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:H49:0000000006"
+	}, {
+		"name": "Union of Shop, Distributive and Allied Workers",
+		"type": "TU",
+		"industrycode": "C10-33.G45-47.H52.I56",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:C10-33.G45-47.H52.I56:0000000007"
+	}, {
+		"name": "Musicians’ Union",
+		"type": "TU",
+		"industrycode": "J59",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:J59:0000000008"
+	}, {
+		"name": "Chartered Society of Physiotherapy",
+		"type": "TU",
+		"industrycode": "Q86",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:Q86:0000000009"
+	}, {
+		"name": "National Association of Head Teachers",
+		"type": "TU",
+		"industrycode": "P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:P85:0000000010"
+	}, {
+		"name": "Transport Salaried Staffs’ Association",
+		"type": "TU",
+		"industrycode": "I55-56.H49.N79",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:I55-56.H49.N79:0000000011"
+	}, {
+		"name": "National Union of Journalists",
+		"type": "TU",
+		"industrycode": "R90",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:R90:0000000012"
+	}, {
+		"name": "Professional Footballers’ Association",
+		"type": "TU",
+		"industrycode": "R93",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:R93:0000000013"
+	}, {
+		"name": "Napo",
+		"type": "TU",
+		"industrycode": "M69.O84",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:M69.O84:0000000014"
+	}, {
+		"name": "National Association of Co-operative Officials",
+		"type": "TU",
+		"industrycode": "C10.K64-66.S94",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:C10.K64-66.S94:0000000015"
+	}, {
+		"name": "FDA",
+		"type": "TU",
+		"industrycode": "B06.O84",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:B06.O84:0000000016"
+	}, {
+		"name": "Fire Brigades’ Union",
+		"type": "TU",
+		"industrycode": "O84",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:O84:0000000017"
+	}, {
+		"name": "Society of Radiographers",
+		"type": "TU",
+		"industrycode": "Q86",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:Q86:0000000018"
+	}, {
+		"name": "GMB",
+		"type": "TU",
+		"industrycode": "X0-99",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:X0-99:0000000019"
+	}, {
+		"name": "Equity",
+		"type": "TU",
+		"industrycode": "I55.R90",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:I55.R90:0000000020"
+	}, {
+		"name": "The British Dietetic Association",
+		"type": "TU",
+		"industrycode": "M72.Q86",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:M72.Q86:0000000021"
+	}, {
+		"name": "British Air Line Pilots’ Association",
+		"type": "TU",
+		"industrycode": "H51",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:H51:0000000022"
+	}, {
+		"name": "British Orthoptic Society Trade Union",
+		"type": "TU",
+		"industrycode": "M72.Q86",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:M72.Q86:0000000023"
+	}, {
+		"name": "The professional trade union for prison, correctional and secure psychiatric workers",
+		"type": "TU",
+		"industrycode": "O84",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:O84:0000000024"
+	}, {
+		"name": "Undeb Cenedlaethol Athrawon Cymru",
+		"type": "TU",
+		"industrycode": "P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:P85:0000000025"
+	}, {
+		"name": "Association of Flight Attendants",
+		"type": "TU",
+		"industrycode": "H51",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:H51:0000000026"
+	}, {
+		"name": "National Union of Mineworkers",
+		"type": "TU",
+		"industrycode": "B05-09",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:B05-09:0000000027"
+	}, {
+		"name": "The Society of Chiropodists and Podiatrists",
+		"type": "TU",
+		"industrycode": "M72.Q86",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:M72.Q86:0000000028"
+	}, {
+		"name": "Hospital Consultants and Specialists Association",
+		"type": "TU",
+		"industrycode": "M72.Q86",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:M72.Q86:0000000029"
+	}, {
+		"name": "Writers’ Guild of Great Britain",
+		"type": "TU",
+		"industrycode": "R90",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:R90:0000000030"
+	}, {
+		"name": "Association of Educational Psychologists",
+		"type": "TU",
+		"industrycode": "M72.P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:M72.P85:0000000031"
+	}, {
+		"name": "Aegis",
+		"type": "TU",
+		"industrycode": "K64-66",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:K64-66:0000000032"
+	}, {
+		"name": "Union of Construction, Allied Trades and Technicians",
+		"type": "TU",
+		"industrycode": "F41-43",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:F41-43:0000000033"
+	}, {
+		"name": "Britannia Staff Union",
+		"type": "TU",
+		"industrycode": "F41-43",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:F41-43:0000000034"
+	}, {
+		"name": "National Association of Stable Staff",
+		"type": "TU",
+		"industrycode": "R93",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:R93:0000000035"
+	}, {
+		"name": "National Association of Schoolmasters Union of Women Teachers",
+		"type": "TU",
+		"industrycode": "P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:P85:0000000036"
+	}, {
+		"name": "The Royal College of Midwives",
+		"type": "TU",
+		"industrycode": "M72.Q86",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:M72.Q86:0000000037"
+	}, {
+		"name": "Advance",
+		"type": "TU",
+		"industrycode": "F41-43",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:F41-43:0000000038"
+	}, {
+		"name": "Accord",
+		"type": "TU",
+		"industrycode": "F41-43",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:F41-43:0000000039"
+	}, {
+		"name": "Association of Teachers and Lecturers",
+		"type": "TU",
+		"industrycode": "P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:P85:0000000040"
+	}, {
+		"name": "National Union of Rail, Maritime and Transport Workers",
+		"type": "TU",
+		"industrycode": "H49-51",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:H49-51:0000000041"
+	}, {
+		"name": "Nationwide Group Staff Union",
+		"type": "TU",
+		"industrycode": "F41-43",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:F41-43:0000000042"
+	}, {
+		"name": "Broadcasting, Entertainment, Cinematograph and Theatre Union",
+		"type": "TU",
+		"industrycode": "I59-60.R90",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:I59-60.R90:0000000043"
+	}, {
+		"name": "UNISON",
+		"type": "TU",
+		"industrycode": "J62-63.M72.O84.P85.Q86-88",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:J62-63.M72.O84.P85.Q86-88:0000000044"
+	}, {
+		"name": "Communication Workers Union",
+		"type": "TU",
+		"industrycode": "C27-28.F41-43.H53.K64-66",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:C27-28.F41-43.H53.K64-66:0000000045"
+	}, {
+		"name": "Public and Commercial Services Union",
+		"type": "TU",
+		"industrycode": "J61-63.P84.R91",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:J61-63.P84.R91:0000000046"
+	}, {
+		"name": "Prospect",
+		"type": "TU",
+		"industrycode": "A01-03.C32.F41-43.H50,53.K64-66.M69-75.O84",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:A01-03.C32.F41-43.H50,53.K64-66.M69-75.O84:0000000047"
+	}, {
+		"name": "Staff Union West Bromwich Building Society",
+		"type": "TU",
+		"industrycode": "F41-43",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:F41-43:0000000048"
+	}, {
+		"name": "Community",
+		"type": "TU",
+		"industrycode": "C10-33.G45-47.O84.Q87-88.R92.S94",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:C10-33.G45-47.O84.Q87-88.R92.S94:0000000049"
+	}, {
+		"name": "University and College Union",
+		"type": "TU",
+		"industrycode": "P85",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:P85:0000000050"
+	}, {
+		"name": "Unite the Union",
+		"type": "TU",
+		"industrycode": "X0-99",
+		"parent": "CU:826:X0-99:0000000001",
+		"GTUUID": "{CU:826:X0-99:0000000001}::TU:826:X0-99:0000000051"
+	}]
+}
